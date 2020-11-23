@@ -15,7 +15,7 @@ const app = new Vue ({
 
     const self = this;
 
-    self.mailList.push()
+    
 
     for (let i = 0; i < 10; i++) {
 
